@@ -17,11 +17,10 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
-
   uses-material-design: true
 
   assets:
-    - images/angela.jpg
+    - images/
 
   fonts:
   - family: Pacifico
